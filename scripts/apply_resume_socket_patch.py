@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright 2025 Analog Life LLC
+# Copyright 2025 Willow Technologies
 # SPDX-License-Identifier: Apache-2.0
 """
 Sync the known-good BG95 resume-socket patch pack into a compatible Zephyr/Golioth
